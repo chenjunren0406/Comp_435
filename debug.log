@@ -195,3 +195,5 @@
 [1104/035934:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
 [1104/035937:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
 [1104/040255:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1120/072632:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1120/072636:ERROR:renderer_main.cc(226)] Running without renderer sandbox
