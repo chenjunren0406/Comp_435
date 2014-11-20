@@ -121,7 +121,7 @@ public class MainFrame extends JFrame {
 
     getContentPane().add(text_, BorderLayout.SOUTH);
     pack();
-    setSize(800,600);
+    setSize(1400,900);
     setVisible(true);
  
     // (6) To take care of shutting down CEF accordingly, it's important to call
