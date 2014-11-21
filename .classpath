@@ -6,11 +6,11 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/chen junren/Desktop/jcef_binary_3.1750.1738.91_windows64/bin/lib/win64"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/chen junren/Desktop/jcef_binary_3.1750.1738.91_windows64/bin/gluegen-rt.jar"/>
-	<classpathentry kind="lib" path="C:/Users/chen junren/Desktop/jcef_binary_3.1750.1738.91_windows64/bin/gluegen-rt-natives-windows-amd64.jar"/>
-	<classpathentry kind="lib" path="C:/Users/chen junren/Desktop/jcef_binary_3.1750.1738.91_windows64/bin/jcef.jar"/>
-	<classpathentry kind="lib" path="C:/Users/chen junren/Desktop/jcef_binary_3.1750.1738.91_windows64/bin/jcef-tests.jar"/>
-	<classpathentry kind="lib" path="C:/Users/chen junren/Desktop/jcef_binary_3.1750.1738.91_windows64/bin/jogl-all.jar"/>
-	<classpathentry kind="lib" path="C:/Users/chen junren/Desktop/jcef_binary_3.1750.1738.91_windows64/bin/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chen junren/workspace/Test/External_Jar/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chen junren/workspace/Test/External_Jar/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chen junren/workspace/Test/External_Jar/jcef.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chen junren/workspace/Test/External_Jar/jcef-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chen junren/workspace/Test/External_Jar/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chen junren/workspace/Test/External_Jar/jogl-all-natives-windows-amd64.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
