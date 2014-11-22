@@ -1,9 +1,10 @@
 
 // Standard extensions get all permissions by default
 
-grant codeBase "file:/C:/Users/chen junren/workspace/Test/-" {
-    permission java.security.AllPermission;
-    //permission java.lang.reflect.ReflectPermission "suppressAccessChecks";  
-    //permission java.lang.RuntimePermission "loadLibrary.icudt";  
-    //permission java.util.PropertyPermission "*", " read,write"; 
+grant codeBase "file:/C:/Users/chen junren/workspace/Test/-" { 
+    permission java.lang.RuntimePermission "loadLibrary.icudt";
+    permission java.lang.RuntimePermission "loadLibrary.libcef";
+    permission java.lang.RuntimePermission "loadLibrary.jcef";
+    permission java.util.PropertyPermission "java.library.path","read";
+    permission java.io.FilePermission "C:/Users/chen junren/workspace/Test/win64","read";
 };
