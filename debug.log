@@ -697,3 +697,144 @@
 [1122/080144:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
 [1122/080147:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
 [1122/080208:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/104304:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/104309:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/104313:INFO:CONSOLE(87)] "一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104313:INFO:CONSOLE(87)] "请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104313:INFO:CONSOLE(87)] "职位介绍：http://dwz.cn/hr2013", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104313:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1122/104318:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/104333:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/104343:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/104345:INFO:CONSOLE(87)] "一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104345:INFO:CONSOLE(87)] "请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104345:INFO:CONSOLE(87)] "职位介绍：http://dwz.cn/hr2013", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104345:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1122/104532:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/104545:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/104547:INFO:CONSOLE(87)] "一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104547:INFO:CONSOLE(87)] "请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104547:INFO:CONSOLE(87)] "职位介绍：http://dwz.cn/hr2013", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_instant_search1_1025db53.js (87)
+[1122/104547:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1122/104804:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/150117:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/150450:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/150451:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/150500:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/150740:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/151154:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/151202:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/151223:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/151232:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1122/151248:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1122/151249:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1122/151633:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/011627:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/011627:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/011637:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/011711:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/053658:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/053658:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/053707:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/053749:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/053802:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/053802:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/054847:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/054847:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/054851:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054851:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054852:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054852:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054853:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054853:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054855:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054855:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054855:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054855:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054856:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/054856:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054856:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054857:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054857:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054859:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054859:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054859:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054859:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054859:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054859:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054900:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1123/054901:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054901:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054902:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054902:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054902:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054902:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054902:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054902:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 4
+[1123/054928:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/054929:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054929:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054931:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054931:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054931:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054931:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054932:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054932:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 8
+[1123/054933:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/054933:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055926:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/055927:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/055932:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055932:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055933:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055933:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055936:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055936:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055936:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/055937:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055937:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055938:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055938:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055938:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055938:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055938:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055938:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055943:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/055943:WARNING:content_browser_client.cc(480)] No browser info matching view process id 3 and routing id 2
+[1123/060008:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/065115:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065138:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065153:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065153:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/065159:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065202:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/065208:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065209:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065209:ERROR:ipc_channel_win.cc(405)] pipe error: 232
+[1123/065209:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065209:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065209:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065210:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065306:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065354:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1123/065354:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/065403:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1123/065437:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2

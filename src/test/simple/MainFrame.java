@@ -4,6 +4,8 @@
 
 package test.simple;
 
+import helper.Browser;
+
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.event.ActionEvent;
@@ -20,6 +22,7 @@ import org.cef.OS;
 import org.cef.browser.CefBrowser;
 
 import tests.detailed.handler.JSDialogHandler;
+
 import javax.swing.JButton;
 
 /**
@@ -89,8 +92,10 @@ public class MainFrame extends JFrame {
     //     by calling the method "getUIComponent()" on the instance of CefBrowser.
     //     The UI component is inherited from a java.awt.Component and therefore
     //     it can be embedded into any AWT UI.
-    browser_ = client_.createBrowser(startURL, useOSR, isTransparent);
+    browser_ =  new Browser(client_, startURL, useOSR, isTransparent);
     browerUI_ = browser_.getUIComponent();
+    
+    browser_.loadString("<html><body><head>" + "nice" + "</head></body></html>", "about:blank");
     // (4) For this minimal browser, we need only a text field to enter an URL
     //     we want to navigate to and a CefBrowser window to display the content
     //     of the URL. To respond to the input of the user, we're registering an
@@ -109,7 +114,7 @@ public class MainFrame extends JFrame {
       text_.addActionListener(new ActionListener() {
         @Override
         public void actionPerformed(ActionEvent e) {
-      	  browser_.loadString("<html><body><head>" + text_.getText() + "</head></body></html>", "http://www.baidu.com");
+      	  browser_.loadString("<html><body><head>" + text_.getText() + "</head></body></html>", "about:blank");
         }
       });
 

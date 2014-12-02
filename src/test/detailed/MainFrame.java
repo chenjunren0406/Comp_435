@@ -83,7 +83,7 @@ public class MainFrame extends JFrame {
       }
     });
 
-    frame.setSize(800, 600);
+    frame.setSize(1400, 900);
     frame.setVisible(true);
   }
 
@@ -216,7 +216,7 @@ public class MainFrame extends JFrame {
     } else {
       cookieManager_ = CefCookieManager.getGlobalManager();
     }
-    browser_ = client_.createBrowser("http://www.google.com",
+    browser_ = client_.createBrowser("www.google.com",
                                      osrEnabled,
                                      false,
                                      requestContext);
